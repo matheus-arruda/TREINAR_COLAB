@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>38.jpg</filename>
+	<path>C:\Users\Matheus\Downloads\treinamento_linkedin\data\images\train\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fiat Siena 2001-06</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>71</ymin>
+			<xmax>706</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fiat Siena 2001-06</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>27</ymin>
+			<xmax>574</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

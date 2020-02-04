@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>a1 (48).jpg</filename>
+	<path>E:\Matheus\MachineLearning\QUALIDADE_AR_ACI\TREINAR_COLAB\data\images\train\a1 (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>15</ymin>
+			<xmax>283</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>45</ymin>
+			<xmax>673</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>286</ymin>
+			<xmax>780</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,49 @@
+<annotation>
+	<folder>train</folder>
+	<filename>27.jpg</filename>
+	<path>C:\Users\Matheus\Downloads\treinamento_linkedin\data\images\train\27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+<<<<<<< HEAD
+		<name>ruim</name>
+=======
+		<name>Fiat Siena 2001-06</name>
+>>>>>>> 8071690f28f1743892b74b8392eff3d7c106b90e
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>535</xmin>
+			<ymin>35</ymin>
+			<xmax>751</xmax>
+			<ymax>448</ymax>
+=======
+			<xmin>15</xmin>
+			<ymin>58</ymin>
+			<xmax>777</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fiat Siena 2001-06</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>59</ymin>
+			<xmax>800</xmax>
+			<ymax>491</ymax>
+>>>>>>> 8071690f28f1743892b74b8392eff3d7c106b90e
+		</bndbox>
+	</object>
+</annotation>
