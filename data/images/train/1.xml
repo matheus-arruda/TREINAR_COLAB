@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>1.jpg</filename>
-	<path>C:\Users\Matheus\Downloads\treinamento_linkedin\data\images\train\1.jpg</path>
+	<path>E:\Matheus\MachineLearning\QUALIDADE_AR_ACI\TREINAR_COLAB\data\images\train\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,34 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Fiat Siena 2001-06</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>59</xmin>
-			<ymin>103</ymin>
-			<xmax>800</xmax>
-			<ymax>542</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Fiat Siena 2001-06</name>
+		<name>bom</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-<<<<<<< HEAD
 			<xmin>62</xmin>
 			<ymin>61</ymin>
 			<xmax>711</xmax>
 			<ymax>488</ymax>
-=======
-			<xmin>32</xmin>
-			<ymin>231</ymin>
-			<xmax>362</xmax>
-			<ymax>579</ymax>
->>>>>>> 8071690f28f1743892b74b8392eff3d7c106b90e
 		</bndbox>
 	</object>
 </annotation>
